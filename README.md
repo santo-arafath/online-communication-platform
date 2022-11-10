@@ -1,1 +1,2 @@
-# online-communication-platform santo
+# online-communication-platform WEPUP
+This project is a console-based project using java. In this project Students of some specific universities can communicate and send messages to their university students. And also communicate with other university students. It has some features for example a calculator,online-Quiz, online story reading, and synonyms finder. This project has three types of users. Unregistered user resisted user and registered user. Admin can log in by using username and password. and see the all information of the registered users. Unregistered users can create accounts. And registered users can login by using their username and password. Then they can use all the features of this platform.
